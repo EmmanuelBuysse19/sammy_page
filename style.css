@@ -31,7 +31,7 @@ img {
 }
 /* Determines how small a container can get */
 container {
-    min-width: 500px;
+    min-width: 400px;
     margin: auto;
     
 }
